@@ -26,3 +26,7 @@ class LoggerIn:
         return entry
 
 
+default_log = 'default.txt'
+sys.stdout = LoggerOut(default_log)
+sys.stdin = LoggerIn(default_log)
+

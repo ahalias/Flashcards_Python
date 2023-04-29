@@ -1,8 +1,7 @@
 import os
 from collections import defaultdict
 import random
-import sys
-from Log import LoggerOut, LoggerIn
+import Log
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -127,9 +126,7 @@ class FlashCards:
 
 
 
-default_log = 'default.txt'
-sys.stdout = LoggerOut(default_log)
-sys.stdin = LoggerIn(default_log)
+
 
 flash_cards = FlashCards()
 while True:

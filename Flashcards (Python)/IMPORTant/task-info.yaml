@@ -1610,16 +1610,10 @@ files:
   text: |
     Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
   learner_created: true
-- name: animal_sounds.txt
-  visible: true
-  learner_created: true
-- name: states.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/10812#comment
 status: Solved
 feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
     to continue learning.
-  time: "Sat, 29 Apr 2023 12:11:31 UTC"
+  time: "Sat, 29 Apr 2023 13:22:11 UTC"
 record: -1
