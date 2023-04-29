@@ -81,13 +81,14 @@ class FlashCards:
             print("There are no cards with errors.")
         else:
             sorted_cards = sorted(self.card_fails.items(), key=lambda x: x[1], reverse=True)
-            for card, fails in dict(sorted_cards).items():
+            sorted_cards_dict = dict(sorted_cards)
+            for card, fails in sorted_cards_dict.items():
                 if fails == sorted_cards[0][1]:
                     hardest_cards.append(f'{card}')
             if len(hardest_cards) == 1:
                 print(f'The hardest card is "{sorted_cards[0][0]}". You have {sorted_cards[0][1]} errors answering it.')
             else:
-                hardest_cards = '", "'.join(hardest_cards)
+                hardest_cards = ', '.join('"' + card + '"' for card in hardest_cards)
                 print(f'The hardest cards are {hardest_cards}. You have {sorted_cards[0][1]} errors answering them.')
 
     def get_action(self):

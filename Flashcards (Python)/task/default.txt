@@ -87,258 +87,6 @@ ask
 How many times to ask?How many times to ask?How many times to ask?100
 100
 100
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
 Print the definition of "Poland":
 Print the definition of "Poland":
 Print the definition of "Poland":
@@ -393,6 +141,24 @@ Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
 Print the definition of "Poland":
 Print the definition of "Poland":
 Print the definition of "Poland":
@@ -400,6 +166,24 @@ Washington
 Washington
 Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
 
 
 Print the definition of "Canada":
@@ -420,42 +204,6 @@ Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
 Print the definition of "Canada":
 Print the definition of "Canada":
 Print the definition of "Canada":
@@ -463,114 +211,6 @@ Washington
 Washington
 Washington
 Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
 
 
 Print the definition of "Poland":
@@ -607,6 +247,60 @@ Washington
 Washington
 Washington
 Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
 Print the definition of "Canada":
@@ -654,114 +348,6 @@ Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Poland":
-Print the definition of "Poland":
-Print the definition of "Poland":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Japan":
-Print the definition of "Japan":
-Print the definition of "Japan":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
 Print the definition of "Japan":
 Print the definition of "Japan":
 Print the definition of "Japan":
@@ -789,6 +375,24 @@ Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
 Print the definition of "Japan":
 Print the definition of "Japan":
 Print the definition of "Japan":
@@ -798,31 +402,13 @@ Washington
 Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
 
 
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
 Washington
 Washington
 Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
 
 
 Print the definition of "Canada":
@@ -861,6 +447,24 @@ Washington
 Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
 
 
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
 Print the definition of "Japan":
 Print the definition of "Japan":
 Print the definition of "Japan":
@@ -868,24 +472,6 @@ Washington
 Washington
 Washington
 Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
-
-
-Print the definition of "Canada":
-Print the definition of "Canada":
-Print the definition of "Canada":
-Washington
-Washington
-Washington
-Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
 
 
 Print the definition of "Japan":
@@ -951,6 +537,42 @@ Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
 Print the definition of "Canada":
 Print the definition of "Canada":
 Print the definition of "Canada":
@@ -978,6 +600,33 @@ Washington
 Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
 Print the definition of "Canada":
 Print the definition of "Canada":
 Print the definition of "Canada":
@@ -985,6 +634,357 @@ Washington
 Washington
 Washington
 Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Canada":
+Print the definition of "Canada":
+Print the definition of "Canada":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".Wrong. The right answer is "Ottawa".
+
+
+Print the definition of "Japan":
+Print the definition of "Japan":
+Print the definition of "Japan":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".Wrong. The right answer is "Tokyo".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
+
+
+Print the definition of "Poland":
+Print the definition of "Poland":
+Print the definition of "Poland":
+Washington
+Washington
+Washington
+Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".Wrong. The right answer is "Warsaw".
 
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
@@ -993,7 +993,7 @@ Input the action (add, remove, import, export, ask, exit, log, hardest card, res
 hardest card
 hardest card
 hardest card
-The hardest card is "Canada". You have 37 errors answering it.The hardest card is "Canada". You have 37 errors answering it.The hardest card is "Canada". You have 37 errors answering it.
+The hardest card is "Japan". You have 37 errors answering it.The hardest card is "Japan". You have 37 errors answering it.The hardest card is "Japan". You have 37 errors answering it.
 
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
@@ -1035,7 +1035,7 @@ Input the action (add, remove, import, export, ask, exit, log, hardest card, res
 hardest card
 hardest card
 hardest card
-The hardest card is "Canada". You have 37 errors answering it.The hardest card is "Canada". You have 37 errors answering it.The hardest card is "Canada". You have 37 errors answering it.
+The hardest card is "Japan". You have 37 errors answering it.The hardest card is "Japan". You have 37 errors answering it.The hardest card is "Japan". You have 37 errors answering it.
 
 
 Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
@@ -1173,18 +1173,6 @@ Correct!Correct!Correct!Correct!
 
 
 
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Austin
-Austin
-Austin
-Austin
-Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".
-
-
-
 Print the definition of "Texas":
 Print the definition of "Texas":
 Print the definition of "Texas":
@@ -1194,6 +1182,18 @@ Austin
 Austin
 Austin
 Correct!Correct!Correct!Correct!
+
+
+
+Print the definition of "California":
+Print the definition of "California":
+Print the definition of "California":
+Print the definition of "California":
+Austin
+Austin
+Austin
+Austin
+Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".
 
 
 
@@ -1318,17 +1318,17 @@ How many times to ask?How many times to ask?How many times to ask?How many times
 2
 2
 2
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
+Print the definition of "Texas":
+Print the definition of "Texas":
+Print the definition of "Texas":
+Print the definition of "Texas":
+Print the definition of "Texas":
 Sacramento
 Sacramento
 Sacramento
 Sacramento
 Sacramento
-Wrong. The right answer is "Tallahassee", but your definition is correct for "California".Wrong. The right answer is "Tallahassee", but your definition is correct for "California".Wrong. The right answer is "Tallahassee", but your definition is correct for "California".Wrong. The right answer is "Tallahassee", but your definition is correct for "California".Wrong. The right answer is "Tallahassee", but your definition is correct for "California".
+Wrong. The right answer is "Austin", but your definition is correct for "California".Wrong. The right answer is "Austin", but your definition is correct for "California".Wrong. The right answer is "Austin", but your definition is correct for "California".Wrong. The right answer is "Austin", but your definition is correct for "California".Wrong. The right answer is "Austin", but your definition is correct for "California".
 
 
 
@@ -1403,19 +1403,19 @@ How many times to ask?How many times to ask?How many times to ask?How many times
 1
 1
 1
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
-Print the definition of "Florida":
+Print the definition of "California":
+Print the definition of "California":
+Print the definition of "California":
+Print the definition of "California":
+Print the definition of "California":
+Print the definition of "California":
 Austin
 Austin
 Austin
 Austin
 Austin
 Austin
-Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".
+Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".
 
 
 
